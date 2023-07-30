@@ -1,3 +1,3 @@
 # csfyi-static-site
 
-practice site I created for practicing my html css skill.
+practice site I copied from cs.fyi for practicing my html css skill.
